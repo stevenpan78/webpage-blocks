@@ -1,0 +1,1 @@
+#out{background:#ff0;width:150px;height:150px;position:relative;margin-top:20px;margin-left:20px}#a{background:#5f0;width:50px;height:50px;position:absolute;top:0;right:0;text-align:right}#b{background:#39f;width:30px;height:30px;position:static;margin-top:10px;bottom:0}#b,#c{left:0}#c{background:red;width:20px;height:20px;position:absolute;top:0;float:right}body{margin:0}
